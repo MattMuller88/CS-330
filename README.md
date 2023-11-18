@@ -1,7 +1,11 @@
 # CS330
 Coursework from the SNHU course CS-330: Computer Graphics and Visualization
 
+
+
 Controls for navigating project: use mouse to look around, W,A,S,D to move camera around, E and Q to move up and down, respectively, scroll to change movement speed, P to toggle between perspective and orthogonal views.
+
+
 
 How do I approach designing software?
 
